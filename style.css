@@ -66,6 +66,9 @@ body {
  .hero-section button:hover {
      background: #218838;
  }
+sub{
+     color: green;
+}
  
  /* Mission & Vision Section */
  #mission {

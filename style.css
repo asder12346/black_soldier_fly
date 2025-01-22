@@ -66,9 +66,26 @@ body {
  .hero-section button:hover {
      background: #218838;
  }
-.sub{
-     color: Black;
-}
+ .sub-title{
+    font-size: large;
+    border-radius: 20px;
+    background-color: #28a745;
+    color: rgb(0, 0, 0);
+ }
+ .a-bout{
+    padding-left: 20px;
+  text-align: left;
+  font-size: x-larger;
+  color: #f8f9fa;  
+ }
+
+ #about{
+    background-color:#218838;;
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+    width: 100%;
+ }
  
  /* Mission & Vision Section */
  #mission {
